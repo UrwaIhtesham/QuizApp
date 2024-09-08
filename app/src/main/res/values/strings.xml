@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">What does CPU stand for?</string>
+    <string name="option_1_1">Central Process Unit</string>
+    <string name="option_1_2">Central Processing Unit</string>
+    <string name="option_1_3">Computer Personal Unit</string>
+    <string name="ca_1">Central Processing Unit</string>
+
+    <string name="question2">Which of the following is not a programming language?</string>
+    <string name="option_2_1">Java</string>
+    <string name="option_2_2">HTML</string>
+    <string name="option_2_3">Python</string>
+    <string name="ca_2">HTML</string>
+
+    <string name="question3">Which of the following is an example of an operating system?</string>
+    <string name="option_3_1">Microsoft Office</string>
+    <string name="option_3_2">Google Chrome</string>
+    <string name="option_3_3">Linux</string>
+    <string name="ca_3">Linux</string>
+
+    <string name="question4">What does HTTP stand for?</string>
+    <string name="option_4_1">HyperText Transfer Protocol</string>
+    <string name="option_4_2">Hyper Terminal Transfer Protocol</string>
+    <string name="option_4_3">HyperTool Transfer Protocol</string>
+    <string name="ca_4">HyperText Transfer Protocol</string>
+
+    <string name="question5">In binary? what does the number "101" equal in decimal?</string>
+    <string name="option_5_1">5</string>
+    <string name="option_5_2">6</string>
+    <string name="option_5_3">7</string>
+    <string name="ca_5">5</string>
+
+    <string name="question6">What does SQL stand for?</string>
+    <string name="option_6_1">Structured Query Language</string>
+    <string name="option_6_2">Strong Query Language</string>
+    <string name="option_6_3">Simple Query Language</string>
+    <string name="ca_6">Structured Query Language</string>
+
+    <string name="question7">Which of the following is a valid IP address?</string>
+    <string name="option_7_1">192.168.1.1</string>
+    <string name="option_7_2">255.255.255.255</string>
+    <string name="option_7_3">Both 1st 2nd</string>
+    <string name="ca_7">Both 1st 2nd</string>
+
+    <string name="question8">Which programming language is primarily used for web development?</string>
+    <string name="option_8_1">C</string>
+    <string name="option_8_2">Python</string>
+    <string name="option_8_3">JavaScript</string>
+    <string name="ca_8">JavaScript</string>
+
+    <string name="question9">Which of the following is a storage device?</string>
+    <string name="option_9_1">Mouse</string>
+    <string name="option_9_2">Monitor</string>
+    <string name="option_9_3">Hard Drive</string>
+    <string name="ca_9">Hard Drive</string>
+
+    <string name="question10">Which of the following is a cloud platform?</string>
+    <string name="option_10_1">Docker</string>
+    <string name="option_10_2">Google Drive</string>
+    <string name="option_10_3">AWS</string>
+    <string name="ca_10">AWS</string>
+
+    <string name="question11">Which data structure uses LIFO (Last In, First Out)?</string>
+    <string name="option_11_1">Queue</string>
+    <string name="option_11_2">Stack</string>
+    <string name="option_11_3">Tree</string>
+    <string name="ca_11">Stack</string>
+
+    <string name="question12">What is the process of finding and fixing bugs in software called?</string>
+    <string name="option_12_1">Debugging</string>
+    <string name="option_12_2">Testing</string>
+    <string name="option_12_3">Coding</string>
+    <string name="ca_12">Debugging</string>
+
+    <string name="question13">Which of the following is used for styling web pages?</string>
+    <string name="option_13_1">HTML</string>
+    <string name="option_13_2">CSS</string>
+    <string name="option_13_3">Python</string>
+    <string name="ca_13">CSS</string>
+
+    <string name="question14">Which of these is a type of loop in programming?</string>
+    <string name="option_14_1">If-else</string>
+    <string name="option_14_2">Object</string>
+    <string name="option_14_3">Do-While</string>
+    <string name="ca_14">Do-While</string>
+
+    <string name="question15">What does IDE stand for in software development?</string>
+    <string name="option_15_1">Integrated Development Environment</string>
+    <string name="option_15_2">Internal Data Environment</string>
+    <string name="option_15_3">Interactive Data Entry</string>
+    <string name="ca_15">Integrated Development Environment</string>
+
+    <string name="question16">Which of these is an example of a high-level programming language?</string>
+    <string name="option_16_1">Assembly</string>
+    <string name="option_16_2">Python</string>
+    <string name="option_16_3">Machine Code</string>
+    <string name="ca_16">Python</string>
+
+    <string name="question17">Which of the following is used for Machine Learning?</string>
+    <string name="option_17_1">C++</string>
+    <string name="option_17_2">MATLAB</string>
+    <string name="option_17_3">Python</string>
+    <string name="ca_17">Python</string>
+
+    <string name="question18">Which variable type can have only two possible values?</string>
+    <string name="option_18_1">int</string>
+    <string name="option_18_2">string</string>
+    <string name="option_18_3">bool</string>
+    <string name="ca_18">bool</string>
+
+    <string name="question19">Which of the following is not a binary number?</string>
+    <string name="option_19_1">001</string>
+    <string name="option_19_2">202</string>
+    <string name="option_19_3">111111000000111111</string>
+    <string name="ca_19">202</string>
+
+    <string name="question20">1 Byte = _______?</string>
+    <string name="option_20_1">8 bits</string>
+    <string name="option_20_2">4 bits</string>
+    <string name="option_20_3">9 bits</string>
+    <string name="ca_20">8 bits</string>
+
+    <string name="question21">Which one is the extension of MS word file?</string>
+    <string name="option_21_1">.xlsx</string>
+    <string name="option_21_2">.docx</string>
+    <string name="option_21_3">.ppt</string>
+    <string name="ca_21">.docx</string>
+
+    <string name="question22">What is the full form of WWW?</string>
+    <string name="option_22_1">World Wide Web</string>
+    <string name="option_22_2">Wide Wide Web</string>
+    <string name="option_22_3">World Web Wide</string>
+    <string name="ca_22">World Wide Web</string>
+
+    <string name="question23">What is the full form of FTP?</string>
+    <string name="option_23_1">File Tool protocol</string>
+    <string name="option_23_2">File text Protocol</string>
+    <string name="option_23_3">File Transfer Protocol</string>
+    <string name="ca_23">File Transfer Protocol</string>
+
+    <string name="question24">Which command is used to remove a relation from an SQL Table?</string>
+    <string name="option_24_1">Drop table</string>
+    <string name="option_24_2">Purge</string>
+    <string name="option_24_3">Remove</string>
+    <string name="ca_24">Drop table</string>
+
+    <string name="question25">What does an RDBMS consist of?</string>
+    <string name="option_25_1">Collection of records</string>
+    <string name="option_25_2">Collection of tables</string>
+    <string name="option_25_3">Collection of Records</string>
+    <string name="ca_25">Collection of tables</string>
+</resources>
