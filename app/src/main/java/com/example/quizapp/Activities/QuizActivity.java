@@ -135,13 +135,7 @@ public class QuizActivity extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-                if (currentIndex < totalQuestions - 1) {
-                    currentIndex++;
-                    displayQuestions();
-                    startTimer();
-                } else {
-                    finishQuiz();
-                }
+                finishQuiz();
             }
         }.start();
     }
