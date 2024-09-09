@@ -72,6 +72,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginTop="50dp"
         android:contentDescription="Timer"
+        android:tint="@color/purple_700"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/stopwatch" />
@@ -83,6 +84,7 @@
         android:layout_marginStart="8dp"
         android:text="120 seconds"
         android:textColor="@color/black"
+        android:textSize="20dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/imageView3"
         app:layout_constraintStart_toEndOf="@+id/imageView3"
@@ -95,6 +97,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginRight="10dp"
         android:contentDescription="NumberofQuestions"
+        android:tint="@color/purple_700"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/question" />
@@ -106,6 +109,7 @@
         android:layout_marginEnd="8dp"
         android:text="1/25"
         android:textColor="@color/black"
+        android:textSize="20dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/imageView4"
         app:layout_constraintEnd_toStartOf="@+id/imageView4"
@@ -183,8 +187,10 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="16dp"
-        android:text="Score: "
-        android:textColor="@color/black"
+        android:text="Score: 0"
+        android:textColor="@color/purple_700"
+        android:textSize="20dp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/cardView"
         app:layout_constraintEnd_toEndOf="parent" />
 
